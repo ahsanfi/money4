@@ -1,4 +1,0 @@
-   0  duapuluh
-   1  limapuluh
-   2  sepuluh
-   3  seratus
